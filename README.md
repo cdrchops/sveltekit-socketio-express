@@ -6,3 +6,4 @@ I believe all of the code I've used is mostly MIT License.  You will need to res
 
 The code I've written is all MIT.  I don't care what you do with the code, just don't blame me
 
+The SocketIO code comes from this tutorial: https://dev.to/theether0/sveltekit-with-socketio-and-nodejs-285h
